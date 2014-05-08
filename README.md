@@ -1,6 +1,6 @@
 # HackerRank Gem
 
-A Ruby interface to the HackerRank / InterviewStreet API.
+A Ruby interface to the [HackerRank / InterviewStreet API](http://apidocs.interviewstreet.org/).
 
 ## Installation
 
